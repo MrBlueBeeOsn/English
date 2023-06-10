@@ -8,7 +8,7 @@
 
 ```js
   
-<📷> 🐦 {  H ヅ L·L ō World! 🌻🌻🌻 } </📷>
+<📷> 🐦 🌻🌻🌻  </📷>
 💚 Acctax/Spreadsheet
 💜 Design/Programming
 💙 #Motivation/English
