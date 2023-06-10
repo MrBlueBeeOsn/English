@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello world 👋
+<h3 align="center">Hieu Trong Khau</h3>
 
-<!--
-**khautronghieu/khautronghieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+<📷> 🐦 {  H ヅ L·L ō World! 🌾🌾🌾 } </📷>
+💚 Acctax/Spreadsheet @hieuacct202
+💙 Motivation/English @khautronghieu
+💜 #Design/ #Programming ⇊
+```
+</h3>
+<a href="https://bio.site/BlueGrapeAcademy" target="_blank">💜 https://bio.site/BluekGrapeAcademy </a>
