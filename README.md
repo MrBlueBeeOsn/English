@@ -10,4 +10,4 @@
 💙 #Motivation/ #English ⇊
 ```
 </h3>
-<a href="https://bio.site/BlueGrapeAcademy" target="_blank">💜 https://bio.site/BluekGrapeAcademy </a>
+<a href="https://sites.google.com/view/khautronghieu/" target="_blank">💜Blue Grape Academy </a>
