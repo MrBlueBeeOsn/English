@@ -22,7 +22,6 @@
 💚 Acctax  Spreadsheet
 💜 Design  Programming
 
-  
 ```
   
 </h4>
@@ -54,7 +53,7 @@ My website
 </a>
 
 ```js
-Truth Social
+💻 Truth Social
 ```
 
 <a href="https://twitter.com/khautronghieu" target="_blank">
