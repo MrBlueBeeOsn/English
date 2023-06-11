@@ -16,7 +16,7 @@
 
 ```js
   
-<📷> 🐦 Grape Academy (NProfit) 🌻🌻🌻 </📷>
+<📷> 🐦 Blue Grape Academy (NProfit) 🌻🌻🌻 </📷>
 
 💙 Motivation  English
 💚 Acctax  Spreadsheet
