@@ -23,7 +23,7 @@
 ---
 
 ```js
-Follow me
+🌻 Follow me
 ```
 
 <a href="https://sites.google.com/view/khautronghieu" target="_blank">
@@ -39,7 +39,7 @@ My website
 </a>
 
 ```js
-Instagram
+📸 Instagram
 ```
 
 <a href="https://truthsocial.com/@khautronghieu" target="_blank">
@@ -63,7 +63,7 @@ Twitter
 </a>
 
 ```js
-LinkedIn
+👔 LinkedIn
 ```
 
 <a href="https://www.facebook.com/groups/bluegrapeacademy" target="_blank">
