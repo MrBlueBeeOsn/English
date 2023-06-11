@@ -23,7 +23,7 @@
 ---
 
 <a href="https://sites.google.com/view/khautronghieu" target="_blank">
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaUdR7E-q9x4NHQSKOSJHXJMu88dwNLva60D0FuQYmyNLE_OKnXzwyIcDYBw6_LGLQD2d-pGcSGS_tT01MhNzGp_7LpsVcUY7LH_JNgAnLUPBCfH0RrHM-QhWBDfD44x36ye857VfNeygFqm2dv1Kv0M=w961-h961-s-no?authuser=0" align="left" width="50px">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaUdR7E-q9x4NHQSKOSJHXJMu88dwNLva60D0FuQYmyNLE_OKnXzwyIcDYBw6_LGLQD2d-pGcSGS_tT01MhNzGp_7LpsVcUY7LH_JNgAnLUPBCfH0RrHM-QhWBDfD44x36ye857VfNeygFqm2dv1Kv0M=w961-h961-s-no?authuser=0" align="left" width="40px">
 </a>
 
 
@@ -32,11 +32,11 @@
 </a>
 
 <a href="https://truthsocial.com/@khautronghieu" target="_blank">
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaXTu4kFVg6ibvPiabmXT--KYI7cH--An3sNi1vYgbowxuov8uJxAEIoyzOqCEnrGp7-7UwgP26GCDwkI4FhKXaZ3rx94J2s3G5F4Kf0IO5HdIEiMqp2MXo9k5dC9EGXgjAEOW1gXkHsUCTJ8UPA_Ljk=w1200-h675-s-no?authuser=0" align="left" width="75px">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaXpvcFE1UcAWTXsmN6xDLLpLguFqDDyBV9Wx3jdNZXUqLI8YqiP26c8eDuVXKq1aNDaoJl7f-EEL2jnlDyD7YqPCDiyMVSJ2bzpO5lrB89_cJpp0UD6MZm5vH1K2yUarsTyV9-23KUc08KCG6M6ixMu=w365-h364-s-no?authuser=0" align="left" width="40px">
 </a>
 
 <a href="https://twitter.com/khautronghieu" target="_blank">
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaUYn6M0xBErAldgmq5SAU88Kz4yQIgikYORbnmWKSsrxY35nFCxcvd0STGimMGjBmbqATXjLsrtmK54SpK4TaRwcaEXxUCx1Ny5M1rkXhV2IjAP_crS55yS7o62iry-tbLaQGfJHpIGZFOQEUXmhCdy=w1024-h842-s-no?authuser=0" align="left" width="50px">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaUYn6M0xBErAldgmq5SAU88Kz4yQIgikYORbnmWKSsrxY35nFCxcvd0STGimMGjBmbqATXjLsrtmK54SpK4TaRwcaEXxUCx1Ny5M1rkXhV2IjAP_crS55yS7o62iry-tbLaQGfJHpIGZFOQEUXmhCdy=w1024-h842-s-no?authuser=0" align="left" width="40px">
 </a>
 
 
