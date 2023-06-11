@@ -6,15 +6,15 @@
 
 <h2>
   
-    ```js
-    📘 Hieu Trong
-    ```
+```js
+📘 Hieu Trong
+```
   
 </h2>
 
 <h4 align="left">
 
-    ```js
+```js
 
     <📷> 🐦 Blue Grape Academy (NProfit) 🌻🌻🌻 </📷>
 
@@ -22,7 +22,7 @@
     💚 Acctax  Spreadsheet
     💜 Design  Programming
 
-    ```
+ ```
   
 </h4>
 
