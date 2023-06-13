@@ -18,9 +18,9 @@
 
     <📷> 🐦 Blue Grape Academy (NProfit) 🌻🌻🌻 </📷>
 
-    💙 Motivation  English
-    💚 Acctax  Spreadsheet
+    💚 Acctax  Spreadsheet 
     💜 Design  Programming
+    💙 Motivation  English
 
  ```
   
