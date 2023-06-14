@@ -29,7 +29,7 @@
 ---
 
 ```js
-🌻 Follow me
+🌻 Social Media
 ```
 
 <a href="https://sites.google.com/view/khautronghieu" target="_blank">
