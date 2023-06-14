@@ -7,7 +7,7 @@
 <h2>
   
 ```js
-📘 Hieu Trong
+📘 Hieu Trong Khau
 ```
   
 </h2>
@@ -16,7 +16,7 @@
 
 ```js
 
-    <📷> 🐦 Blue Grape Academy (NProfit) 🌻🌻🌻 </📷>
+    <📷> 🐦 Hieu Trong Khau Blog 🌻🌻🌻 </📷>
 
     💚 Acctax  Spreadsheet 
     💜 Design  Programming
