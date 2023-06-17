@@ -45,6 +45,21 @@
 🌻 Social Media
 ```
 
+<a href="https://truthsocial.com/@khautronghieu" target="_blank">
+  <img src="https://lh3.googleusercontent.com/pw/AJFCJaXpvcFE1UcAWTXsmN6xDLLpLguFqDDyBV9Wx3jdNZXUqLI8YqiP26c8eDuVXKq1aNDaoJl7f-EEL2jnlDyD7YqPCDiyMVSJ2bzpO5lrB89_cJpp0UD6MZm5vH1K2yUarsTyV9-23KUc08KCG6M6ixMu=w365-h364-s-no?authuser=0" align="left" width="40px">
+</a>
+
+```js
+📱 Truth Social
+```
+
+<a href="https://twitter.com/khautronghieu" target="_blank">
+  <img src="https://lh3.googleusercontent.com/pw/AJFCJaUYn6M0xBErAldgmq5SAU88Kz4yQIgikYORbnmWKSsrxY35nFCxcvd0STGimMGjBmbqATXjLsrtmK54SpK4TaRwcaEXxUCx1Ny5M1rkXhV2IjAP_crS55yS7o62iry-tbLaQGfJHpIGZFOQEUXmhCdy=w1024-h842-s-no?authuser=0" align="left" width="40px">
+</a>
+
+```js
+🐦 Twitter
+```
 
 <a href="https://www.youtube.com/@HieuAcct202" target="_blank">
   <img src="https://lh3.googleusercontent.com/pw/AJFCJaX_7TGXonBz9MSCsbh0zzp8HdxiQbd5bFZrsigahKdocpq4uIfDNXO0ND7dnK3KDcZA3GtbGBXIBBrnsN_eGfex_Vd0jGWz7QLLmVmqBG5vt6eHPYGCDHGZ9xGOugDd2bmHsf8ESafclswS-1RQ-_9Y=w512-h512-s-no?authuser=0" align="left" width="40px">
@@ -60,22 +75,6 @@
 
 ```js
 📸 Instagram
-```
-
-<a href="https://truthsocial.com/@khautronghieu" target="_blank">
-  <img src="https://lh3.googleusercontent.com/pw/AJFCJaXpvcFE1UcAWTXsmN6xDLLpLguFqDDyBV9Wx3jdNZXUqLI8YqiP26c8eDuVXKq1aNDaoJl7f-EEL2jnlDyD7YqPCDiyMVSJ2bzpO5lrB89_cJpp0UD6MZm5vH1K2yUarsTyV9-23KUc08KCG6M6ixMu=w365-h364-s-no?authuser=0" align="left" width="40px">
-</a>
-
-```js
-📱 Truth Social
-```
-
-<a href="https://twitter.com/khautronghieu" target="_blank">
-  <img src="https://lh3.googleusercontent.com/pw/AJFCJaUYn6M0xBErAldgmq5SAU88Kz4yQIgikYORbnmWKSsrxY35nFCxcvd0STGimMGjBmbqATXjLsrtmK54SpK4TaRwcaEXxUCx1Ny5M1rkXhV2IjAP_crS55yS7o62iry-tbLaQGfJHpIGZFOQEUXmhCdy=w1024-h842-s-no?authuser=0" align="left" width="40px">
-</a>
-
-```js
-🐦 Twitter
 ```
 
 <a href="https://www.linkedin.com/in/khautronghieu" target="_blank">
