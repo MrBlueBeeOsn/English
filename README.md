@@ -45,6 +45,14 @@
 🌻 Social Media
 ```
 
+<a href="https://threads.net/@khautronghieu" target="_blank">
+  <img src="https://lh3.googleusercontent.com/pw/AIL4fc_nM7JqaHbI5CE6Dgy4M_6-BFmH0caR-1QHUC8DJlI2nsdGOLmXXAyzg2AIxsGvwFo-sZ06Or_bPSrY9lnzWzTIaSTl1x1pTsAy693yZ4lqUh83OxrHBtWZFpbD_PDD8y-5bvFaxXvchZMgGCImLot2=w240-h240-s-no?authuser=0" align="left" width="40px">
+</a>
+
+```js
+@ Threads
+```
+
 <a href="https://truthsocial.com/@khautronghieu" target="_blank">
   <img src="https://lh3.googleusercontent.com/pw/AJFCJaXpvcFE1UcAWTXsmN6xDLLpLguFqDDyBV9Wx3jdNZXUqLI8YqiP26c8eDuVXKq1aNDaoJl7f-EEL2jnlDyD7YqPCDiyMVSJ2bzpO5lrB89_cJpp0UD6MZm5vH1K2yUarsTyV9-23KUc08KCG6M6ixMu=w365-h364-s-no?authuser=0" align="left" width="40px">
 </a>
