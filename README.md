@@ -62,11 +62,11 @@
 ```
 
 <a href="https://twitter.com/khautronghieu" target="_blank">
-  <img src="https://lh3.googleusercontent.com/pw/AJFCJaUYn6M0xBErAldgmq5SAU88Kz4yQIgikYORbnmWKSsrxY35nFCxcvd0STGimMGjBmbqATXjLsrtmK54SpK4TaRwcaEXxUCx1Ny5M1rkXhV2IjAP_crS55yS7o62iry-tbLaQGfJHpIGZFOQEUXmhCdy=w1024-h842-s-no?authuser=0" align="left" width="40px">
+  <img src="https://lh3.googleusercontent.com/pw/AIL4fc95jGF8GefsKMFRdi-Z3Gk2OjAoaWMInzmoygVFD8vg0joLGwy4zTVF6eqmLiQCq5ffdYi5suCFDqb5_ASGUUDVly8RLmoEKH0Mskk-Y9CKSy1-03M7gfIIyQMHj_BE1ex_kJuVXQXfl6C3Mnon9mEM=w300-h300-s-no?authuser=0" align="left" width="40px">
 </a>
 
 ```js
-🐦 Twitter
+🐦 X
 ```
 
 <a href="https://www.youtube.com/@HieuAcct202" target="_blank">
