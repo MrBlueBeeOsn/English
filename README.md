@@ -42,7 +42,7 @@
 </br>
 
 ```js
-🌻 Social Media
+👥 Group
 ```
 
 <a href="https://www.linkedin.com/groups/14323017/" target="_blank">
@@ -75,6 +75,10 @@
 
 ```js
 📓 BGA Workspace
+```
+
+```js
+🌻 Social Media
 ```
 
 <a href="https://threads.net/@khautronghieu" target="_blank">
