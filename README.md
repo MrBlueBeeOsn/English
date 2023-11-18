@@ -19,7 +19,7 @@
     Google Chat: Messaging and Team Collaboration
 ```
 
-  ☘️ Google Chat : https://chat.google.com 
+  ☘️ ` Google Chat ` : https://chat.google.com 
   </br>
     🍁 Chat in Gmail : https://mail.google.com
   </br>
