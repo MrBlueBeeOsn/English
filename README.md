@@ -29,16 +29,6 @@
 
 
 <h4 align="left">
-
-```js
-
-    <📷> 📘 BGA Workspace 🌻🌻🌻 </📷>
-
-    💚 Acctax  Spreadsheet 
-    💙 Motivation  English
-    💜 Design  Programming
-
- ```
   
 </h4>
 
