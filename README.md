@@ -22,7 +22,7 @@
 
   ☘️ ` Google Chat ` : https://chat.google.com 
   </br>
-    🍁 ` Chat in Gmail ` : https://mail.google.com
+    🍁 ` Gchat in Gmail ` : https://mail.google.com
   </br>
     ` Android `: https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=en&gl=US
   </br>
